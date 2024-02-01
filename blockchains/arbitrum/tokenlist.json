@@ -5,6 +5,12 @@
   "tokens": [
     [
       {
+        "name": "Soul",
+        "address": "0x6C35Ec8df04d1417D3B02f2476c02E65b6D3B94C",
+        "symbol": "SOUL",
+        "decimals": 18
+      },
+      {
         "name": "Bridged USDC",
         "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
         "symbol": "USDC.e",
